@@ -1,0 +1,4 @@
+name: SobanaHttp
+api: 4.0.0
+main: AkmalFairuz\SobanaHttp\SobanaHttp
+version: 1.0.0
